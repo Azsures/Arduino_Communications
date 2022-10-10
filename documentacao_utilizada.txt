@@ -1,0 +1,20 @@
+API:
+https://www.youtube.com/watch?v=bLz33O6-i5Q
+https://www.xanthium.in/Serial-Port-Programming-using-Win32-API
+
+Status e tipo COMSTAT:
+https://learn.microsoft.com/en-us/windows/win32/api/winbase/ns-winbase-comstat
+
+Write on arduino:
+https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-writefile
+https://www.youtube.com/watch?v=CebbJ7zrAWU
+
+Read from arduino:
+https://learn.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-readfile
+
+Geral communication;
+https://www.youtube.com/watch?v=vHeG3Gt6STE
+
+Arduino:
+https://www.arduino.cc/reference/pt/language/functions/communication/serial/write/
+
