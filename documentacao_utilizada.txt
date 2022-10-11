@@ -18,3 +18,7 @@ https://www.youtube.com/watch?v=vHeG3Gt6STE
 Arduino:
 https://www.arduino.cc/reference/pt/language/functions/communication/serial/write/
 
+Database:
+https://www.sqlite.org/docs.html
+https://www.youtube.com/watch?v=-C5HSdPU3TI
+
